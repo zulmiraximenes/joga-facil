@@ -1,0 +1,9 @@
+#Thu Nov 22 15:51:30 BRST 2018
+org.modelio.module.propertytab.JavaDesigner\ v3.8.01\ GModule\ @file\:///C\:/Users/Stefano.pereira/.modelio/3.8/modules/JavaDesigner_3.8.01/JavaDesigner_3.8.01.jmdac\ runtime\ module_.org.modelio.app.ui.model.perspective.parentId=org.modelio.app.bottom.parts
+org.modelio.module.propertytab.JavaDesigner\ v3.8.01\ GModule\ @file\:///C\:/Users/Stefano.pereira/.modelio/3.8/modules/JavaDesigner_3.8.01/JavaDesigner_3.8.01.jmdac\ runtime\ module_.org.modelio.diagram.perspective.parentId=app.ui.ext_com.partstack.right
+org.modelio.module.propertytab.JavaDesigner\ v3.8.01\ GModule\ @file\:///C\:/Users/Stefano.pereira/.modelio/3.8/modules/JavaDesigner_3.8.01/JavaDesigner_3.8.01.jmdac\ runtime\ module_.org.modelio.full.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.diagram.editor.OpenedDiagrams3='Interaction Sequence diagram' {5951e402-3919-4d57-8075-06545d1102b5} Standard.SequenceDiagram
+org.modelio.diagram.editor.OpenedDiagrams2='uc Funcionalidade T\u00E9cnico' {62545715-903c-4caf-ad1c-f461128c8a72} Standard.UseCaseDiagram
+org.modelio.diagram.editor.OpenedDiagrams1='uc Funcionalidade Dono do Campo' {3a934fcc-09be-4669-af80-eb8ba21ef50a} Standard.UseCaseDiagram
+org.modelio.module.propertytab.JavaDesigner\ v3.8.01\ GModule\ @file\:///C\:/Users/Stefano.pereira/.modelio/3.8/modules/JavaDesigner_3.8.01/JavaDesigner_3.8.01.jmdac\ runtime\ module_.org.modelio.development.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.diagram.editor.OpenedDiagrams0='uc Atores' {e8ee6a04-168e-41f0-860c-90d6095aabcd} Standard.UseCaseDiagram

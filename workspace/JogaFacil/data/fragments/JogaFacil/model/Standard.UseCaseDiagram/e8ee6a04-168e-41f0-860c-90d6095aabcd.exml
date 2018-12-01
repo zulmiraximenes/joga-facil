@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="uc Atores" version="4">
+  <OBJECT>
+    <ID name="uc Atores" mc="Standard.UseCaseDiagram" uid="e8ee6a04-168e-41f0-860c-90d6095aabcd"/>
+    <PID name="jogafacil" mc="Standard.Package" uid="5b6b1529-f907-4a1b-b994-d903a76e6fe5"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">94</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[uc Atores]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="jogafacil" mc="Standard.Package" uid="5b6b1529-f907-4a1b-b994-d903a76e6fe5"/>
+        <ID name="Jogador" mc="Standard.Actor" uid="9e119463-1e7e-43d7-a985-9aa50c4d52b7"/>
+        <ID name="Técnico" mc="Standard.Actor" uid="3f7ee115-45aa-4f79-aa75-9b1cc97d22c7"/>
+        <ID name="Dono do campo" mc="Standard.Actor" uid="a9fc4a1d-6c09-4472-9c2e-440decfdfc4f"/>
+        <ID name="Sistema" mc="Standard.Actor" uid="f9e794d1-be54-4acb-91a7-b6d39a2ae0bc"/>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="a4c0bea1-d48a-429f-b3f1-816bb6b85de7"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

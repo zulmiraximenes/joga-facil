@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Joga_Facil_UC001_AutenticarUsuario" version="4">
+  <OBJECT>
+    <ID name="Joga_Facil_UC001_AutenticarUsuario" mc="Standard.Interaction" uid="689774f1-afba-434a-97a7-f132a3384957"/>
+    <PID name="jogafacil" mc="Standard.Package" uid="5b6b1529-f907-4a1b-b994-d903a76e6fe5"/>
+    <ATTRIBUTES>
+      <ATT name="IsReentrant">false</ATT>
+      <ATT name="Name"><![CDATA[Joga_Facil_UC001_AutenticarUsuario]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedCollaboration">
+        <OBJECT>
+          <ID name="locals" mc="Standard.Collaboration" uid="248e3a28-d382-4a72-a662-f00363cdfaeb"/>
+          <ATTRIBUTES>
+            <ATT name="IsConcurrent">false</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="IsLeaf">false</ATT>
+            <ATT name="IsRoot">false</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="Name"><![CDATA[locals]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES></DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Interaction Sequence diagram" mc="Standard.SequenceDiagram" uid="d6b30cc8-9895-48b0-814a-3af7dc803374"/>
+        <COMPID name="Interaction Sequence diagram (1)" mc="Standard.SequenceDiagram" uid="d418f7a2-59f8-410b-a66a-e28fa45e5613"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

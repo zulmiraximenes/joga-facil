@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="JogaFacil" version="4">
+  <OBJECT>
+    <ID name="JogaFacil" mc="Infrastructure.DiagramSet" uid="ed9804c1-543d-4bec-8a3e-c3aa671b29b2"/>
+    <PID name="JogaFacil" mc="Standard.Project" uid="4bc799d5-f08f-40f4-a214-9281b1c9ac14"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[JogaFacil]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

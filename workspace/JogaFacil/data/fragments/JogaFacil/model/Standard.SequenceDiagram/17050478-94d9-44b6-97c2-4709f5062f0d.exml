@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="uc007 Fale conosco" version="4">
+  <OBJECT>
+    <ID name="uc007 Fale conosco" mc="Standard.SequenceDiagram" uid="17050478-94d9-44b6-97c2-4709f5062f0d"/>
+    <PID name="Joga_Facil_UC007_VisualizarInformações" mc="Standard.Interaction" uid="0dc68af4-f0d3-4b23-98f2-099240d6d4a4"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">14</ATT>
+      <ATT name="UiData"><![CDATA[eJztU1FP2zAQ/iuW3+uGEugqhSJoUFURKGo3pD2ha3ztzBy7s11o/v1ikjBa1CiT0HjZk63zfXffd/4uOt9mkjyhsUKrM3rEAkrOh9F08YipI4IXIUpcvsYzqs2KZZqjFJpxASsDGUMunDbM4q8NqhQZSsxQOfsaqRPH2byKxGWEkgwetXl4bR3QYXRn9BqNy4mCrOgoIdcbF4OD4u0e5AYrKmojJe0Oo24NeAedu1wi3RHSaxJifb5lqTbISmwLfiOwKXDkdbOrrZvhsmWX26JEhSS4dfFiUnB8ufrLTYkkx2y7J7RbSmoSb1CCQ15w2ZvbjQ+RJx/xIwLFwXC29zPkqB+cBGH/S2cQ8kEnDBennUE/7XXCfjBYngSnvWXAm6cvwbprpZ9VAguUeyTmzgi1osOJcmggdcV0SU2BVJOKui+IRpFa4kSNdLbWVvgiB9q0KDX6ISQ36CskwvrRVsdBRCLUT9s+/XIVG3gu6CSQo9m15XHjftX7xEu8ZdJXKNZpp+C/2aW/Q326CQU/4Ih4zJKL71ezh8uL0fV4Nv12G3+MSVqs5ttv+2OgN3YI/9vhs+zwdXr30T44+PQbSYyX3g==]]></ATT>
+      <ATT name="Name"><![CDATA[uc007 Fale conosco]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="22cffc9f-6dbd-4051-bf97-f7c8058e1322"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

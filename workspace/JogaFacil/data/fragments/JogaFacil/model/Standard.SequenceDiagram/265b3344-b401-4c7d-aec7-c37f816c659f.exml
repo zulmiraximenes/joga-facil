@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Interaction Sequence diagram" version="4">
+  <OBJECT>
+    <ID name="Interaction Sequence diagram" mc="Standard.SequenceDiagram" uid="265b3344-b401-4c7d-aec7-c37f816c659f"/>
+    <PID name="Joga_Facil_UC005_ManterReservaCampo" mc="Standard.Interaction" uid="19b83900-1c5a-4912-b944-2d20b631662a"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">5</ATT>
+      <ATT name="UiData"><![CDATA[eJztU8FO4zAQ/RUr97otCe2uFIqgQVVFoKjdXWlPaGJPi8Gxi+1C8/ckJGFpV42yElounGyN5828N34Tnm5TSZ7QWKHVidenPY+cjsJZco/MEcHzkEdctsYTT5sVTTVHKTTlAlYGUopcOG2oxccNKoYUJaaonH2L1ImTdFFFojLikRTutbl9a93zRuGN0Ws0LiMK0ryjhExvXAQO8rdfIDdYUVEbKb3uKOzWgL+gC5dJ9HaEHDUJsUW+pUwbpCW2Bb8xWAYced3sYuvmuGzZ5TovUSEJbl2UTHOOr9ficlUiiU+3e0K7paQm8QYlOOQ5l725XRUh8lREihGB4mA43fsZcjQ4Tnw/CDpJ0Ot3AjbkHUA27DB/uPzWH7DB8fdl8/QlWHep9LOKIUG5R2LhjFArbzRVDg0wl0+X1BRINamw+4poFKklTtVYp2ttRVHkQJsWpcZ3QnKDRYVY2GK01XEQEQv1YNunn68iA885nRgyNLu29Bv3q94nXuItlUWFfJ12Cv6fXfo31KebUPADjogmND77fTG/PT8bX07ms5/X0ceYpMVqvv+2PwZ6Z4fgyw6fZYcfs5uP9sHBpxc6kZqN]]></ATT>
+      <ATT name="Name"><![CDATA[Interaction Sequence diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="2265cb73-97f5-4acf-8e26-009394f4dc03"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

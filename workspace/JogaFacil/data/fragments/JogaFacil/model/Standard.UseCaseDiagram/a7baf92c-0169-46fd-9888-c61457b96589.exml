@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="uc Funcionalidade Sistema" version="4">
+  <OBJECT>
+    <ID name="uc Funcionalidade Sistema" mc="Standard.UseCaseDiagram" uid="a7baf92c-0169-46fd-9888-c61457b96589"/>
+    <PID name="jogafacil" mc="Standard.Package" uid="5b6b1529-f907-4a1b-b994-d903a76e6fe5"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">20</ATT>
+      <ATT name="UiData"><![CDATA[eJztl1FP4kAQx79K09wrBRQRLoiBtmJjpaZFL94LWdoBq9tds7sV+u1vS6mRqthTDs3FJ5rtzn9mdn8zUzrHiwgrD8B4SMmRWtdqqnLc7TiTW/CFEgZySVVEcg9HKmUzLaIB4JBqQYhmDEUaBKGgTIs5+IiDBhgiIILnC/m2QXTJQZcLRragKhG6pWz86LemdjsXjN4DE4lCUCTdYZTQWBhIIPnuCuEYVnGQGGO12u1Uc4Nnpp5IMKhrWextyoKn+7nmUwZaZlsiPpmOjwIIcmfmQrgwLellKCVWlgoshDGxZIzLx/ThPLNU9rXF5kR7nufoY+/U+eU6tukVDqpPKQZEVOUhXTxSpwhzKCs47F1Zg17fsq3R9TZ17V7ftLcpqPdcY1t6ujMcmvrIcoauczky3YKuSeLoZymAziD5oVNCJH6SH1eCDMwKHgMyLFe6KURUzXDdFCUDjAQEkrNCZOfpUq7uCUQCxAJtvegUdDhB0/aeX6nVm+1KozkNKu1Wq1Xxm/XGweGk3TxotTefEkZcnBE6JzaaAC7E4AkWkpnajX3lJCa+zBvhMJAlonghFxChTnW5fWOC8uIsotPonvIwPbpXfJSQ0m9CHDBIFWzpf60b7L+np/EkzUL2Mm/5sPse1vjnPSxtYFm3/D/RvKUzNEV+iL8OigcbUczZ82kUUaLdgLwtJhE0YIpiLJaDwsw2nS7f7Z7KZlkqpdQi+TCajW80S6OZ4VJCkN/Q+Tj0nwm9Y5Aupe4gmVMWbEFNIP9uLNstA/qGmmBxmdDwC3dQQuoRsyfkH25hipwwgN+UlCqJ7dZt67tuv2rdTmiQvGesVFc/L53ys1cFsRxIbXW5hdAsImCWjpfVqddfvc63HNkhueMbQi5s788MhubyWGyUSP9rCLdLzc4gs+caThXS4flUcDd193dWnw1+WOzcOZjGQLN716Y77vf0s4H8jzQ0ts3pqypPb42/9CVVr33j8Ek4jJyL3fer9Tw/2Lf+AE8HoqM=]]></ATT>
+      <ATT name="Name"><![CDATA[uc Funcionalidade Sistema]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="jogafacil" mc="Standard.Package" uid="5b6b1529-f907-4a1b-b994-d903a76e6fe5"/>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="a5148ca4-a8ef-4f89-a2d0-31dbd9268b63"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -14,34 +14,24 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedBehavior">
-        <COMPID name="Joga_Facil_UC001_AutenticarUsuario" mc="Standard.Interaction" uid="689774f1-afba-434a-97a7-f132a3384957"/>
-        <COMPID name="Joga_Facil_UC002_IncluirCadastro" mc="Standard.Interaction" uid="f6dc45bf-5169-4427-a295-6d0b2e9d052e"/>
-        <COMPID name="Joga_Facil_UC003_ManterJogadores" mc="Standard.Interaction" uid="bd1abdf0-3860-4dc8-9a84-8fc895c2610b"/>
-        <COMPID name="Joga_Facil_UC004_ManterMeuTime" mc="Standard.Interaction" uid="d490b286-e258-473b-9afd-c3184db6cb73"/>
-        <COMPID name="Joga_Facil_UC005_ManterReservaCampo" mc="Standard.Interaction" uid="19b83900-1c5a-4912-b944-2d20b631662a"/>
-        <COMPID name="Joga_Facil_UC006_ManterMinhaConta" mc="Standard.Interaction" uid="85405b6e-bdad-4caa-8410-3e62064664ba"/>
-        <COMPID name="Joga_Facil_UC008_SolicitarFaleConosco" mc="Standard.Interaction" uid="184264f2-2e18-4262-aec1-a5f207440c2b"/>
-        <COMPID name="Joga_Facil_UC007_VisualizarInformações" mc="Standard.Interaction" uid="0dc68af4-f0d3-4b23-98f2-099240d6d4a4"/>
+        <COMPID name="Interaction" mc="Standard.Interaction" uid="f50c9cf5-c19d-4434-ba01-46fcf1a90fc5"/>
       </COMP>
       <COMP relation="OwnedElement">
         <COMPID name="Jogador" mc="Standard.Actor" uid="9e119463-1e7e-43d7-a985-9aa50c4d52b7"/>
-        <COMPID name="Técnico" mc="Standard.Actor" uid="3f7ee115-45aa-4f79-aa75-9b1cc97d22c7"/>
-        <COMPID name="Dono do campo" mc="Standard.Actor" uid="a9fc4a1d-6c09-4472-9c2e-440decfdfc4f"/>
-        <COMPID name="Sistema" mc="Standard.Actor" uid="f9e794d1-be54-4acb-91a7-b6d39a2ae0bc"/>
-        <COMPID name="Joga_Facil_UC001_AutenticarUsuario" mc="Standard.UseCase" uid="336429df-703a-489c-9912-ee65283054f5"/>
-        <COMPID name="Joga_Facil_UC002_IncluirCadastro" mc="Standard.UseCase" uid="47bd69c5-81d9-4f89-aa02-088e1e78dbe8"/>
-        <COMPID name="Joga_Facil_UC004_ManterMeuTime" mc="Standard.UseCase" uid="dfa7e8a0-664c-4d36-9725-0b1e91c25310"/>
-        <COMPID name="Joga_Facil_UC005_ManterReservaCampo" mc="Standard.UseCase" uid="4d32f41d-bc99-4293-8d06-980999fc361d"/>
-        <COMPID name="Joga_Facil_UC006_ManterMinhaConta" mc="Standard.UseCase" uid="6b9d770d-e70e-4307-930d-b8ddbb1b5336"/>
-        <COMPID name="Joga_Facil_UC007_VisualizarInformações" mc="Standard.UseCase" uid="f065471e-18a1-4454-8f8f-09269cbfe876"/>
-        <COMPID name="Joga_Facil_UC008_SolicitarFaleConosco" mc="Standard.UseCase" uid="88b09d39-9c38-422c-9b36-6663190e923c"/>
+        <COMPID name="Proprietário" mc="Standard.Actor" uid="3f7ee115-45aa-4f79-aa75-9b1cc97d22c7"/>
+        <COMPID name="Treinador" mc="Standard.Actor" uid="a9fc4a1d-6c09-4472-9c2e-440decfdfc4f"/>
+        <COMPID name="Joga_Facil_UC001_ManterUsuario" mc="Standard.UseCase" uid="336429df-703a-489c-9912-ee65283054f5"/>
+        <COMPID name="Joga_Facil_UC002_SolicitarFaleConosco" mc="Standard.UseCase" uid="47bd69c5-81d9-4f89-aa02-088e1e78dbe8"/>
+        <COMPID name="Joga_Facil_UC003_ManterMeuTime" mc="Standard.UseCase" uid="dfa7e8a0-664c-4d36-9725-0b1e91c25310"/>
+        <COMPID name="Joga_Facil_UC004_ManterCampo" mc="Standard.UseCase" uid="4d32f41d-bc99-4293-8d06-980999fc361d"/>
+        <COMPID name="Formulário - Fale Conosco" mc="Standard.UseCase" uid="676992c5-3c0e-4804-b992-3749fd5228e4"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="uc Atores" mc="Standard.UseCaseDiagram" uid="e8ee6a04-168e-41f0-860c-90d6095aabcd"/>
         <COMPID name="uc Funcionalidades Jogador" mc="Standard.UseCaseDiagram" uid="c86e5309-d42e-407e-8f17-f8bbdc00cc4c"/>
-        <COMPID name="uc Funcionalidade Dono do Campo" mc="Standard.UseCaseDiagram" uid="3a934fcc-09be-4669-af80-eb8ba21ef50a"/>
-        <COMPID name="uc Funcionalidade Técnico" mc="Standard.UseCaseDiagram" uid="62545715-903c-4caf-ad1c-f461128c8a72"/>
-        <COMPID name="uc Funcionalidade Sistema" mc="Standard.UseCaseDiagram" uid="a7baf92c-0169-46fd-9888-c61457b96589"/>
+        <COMPID name="uc Funcionalidade Proprietário" mc="Standard.UseCaseDiagram" uid="3a934fcc-09be-4669-af80-eb8ba21ef50a"/>
+        <COMPID name="uc Funcionalidade Treinador" mc="Standard.UseCaseDiagram" uid="62545715-903c-4caf-ad1c-f461128c8a72"/>
+        <COMPID name="Joga_Facil_UC002_SolicitarFaleConosco" mc="Standard.UseCaseDiagram" uid="d93b8e77-06f9-429e-ad45-8c422570da92"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

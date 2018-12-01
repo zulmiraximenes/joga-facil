@@ -1,0 +1,59 @@
+proprietario
+
+
+
+jogador
+
+
+
+treinador
+
+
+uc
+Joga_Facil_UC001_ManterUsuario
+	cadastro
+	Minha conta
+	
+Joga_Facil_UC002_ManterJogadores --- excluir
+
+Joga_Facil_UC003_ManterMeuTime
+	Jogadores
+	Meu Time
+Joga_Facil_UC004_ManterCampo
+	Reservar Campo
+	Estabelecimento
+Joga_Facil_UC005_VisualizarInformações --- excluir
+Joga_Facil_UC006_SolicitarFaleConosco
+	Fale Conosco
+
+fluxo
+
+cadastro
+	usuario -UC0001
+login
+	menu principal
+		perfil
+			Todos
+				Fale Conosco -UC0006
+				Minha conta -UC0001
+			jogador - 
+				Meu Time - -UC0003
+			proprietario
+				Estabelecimento - -UC0004
+					lista estabelecimento
+						detalhe estabelecimento
+						adicionar estabelecimento
+						excluir estabelecimento
+			treinador
+				Jogadores -UC0003
+					Escalar Time
+				Meu Time -UC0003
+					
+				Reservar Campo -UC0004
+					Lista de Estabelecimento
+						Lista de campos estabelecimento
+							reservar campo
+								se reservado
+									cancelar reserva
+									visualizar reserva
+				

@@ -1,4 +1,4 @@
-proprietario
+﻿proprietario
 
 
 
@@ -56,4 +56,19 @@ login
 								se reservado
 									cancelar reserva
 									visualizar reserva
-				
+
+
+UC001 Cadastrar usuário
+UC002 Solicitar Fale Conosco		
+UC003 Visualizar MeuTime
+UC004 Reservar Campo
+UC005 Escalar Time
+UC006 Visualizar e Editar Meu Perrfil
+UC007 Logar Usuário
+UC008 Recuperar Senha
+UC009 Cadastrar Estabelecimento
+UC010 Cadastrar Campo
+UC011 Visualizar e Editar Estabelecimento
+UC012 Visualizar e Editar Campo
+UC013 Excluir Estabelecimento
+UC014 Excluir Campo

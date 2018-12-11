@@ -20,11 +20,21 @@
         <COMPID name="Jogador" mc="Standard.Actor" uid="9e119463-1e7e-43d7-a985-9aa50c4d52b7"/>
         <COMPID name="Proprietário" mc="Standard.Actor" uid="3f7ee115-45aa-4f79-aa75-9b1cc97d22c7"/>
         <COMPID name="Treinador" mc="Standard.Actor" uid="a9fc4a1d-6c09-4472-9c2e-440decfdfc4f"/>
-        <COMPID name="Joga_Facil_UC001_ManterUsuario" mc="Standard.UseCase" uid="336429df-703a-489c-9912-ee65283054f5"/>
-        <COMPID name="Joga_Facil_UC002_SolicitarFaleConosco" mc="Standard.UseCase" uid="47bd69c5-81d9-4f89-aa02-088e1e78dbe8"/>
-        <COMPID name="Joga_Facil_UC003_ManterMeuTime" mc="Standard.UseCase" uid="dfa7e8a0-664c-4d36-9725-0b1e91c25310"/>
-        <COMPID name="Joga_Facil_UC004_ManterCampo" mc="Standard.UseCase" uid="4d32f41d-bc99-4293-8d06-980999fc361d"/>
-        <COMPID name="Formulário - Fale Conosco" mc="Standard.UseCase" uid="676992c5-3c0e-4804-b992-3749fd5228e4"/>
+        <COMPID name="UC002 Solicitar Fale Conosco" mc="Standard.UseCase" uid="f8092c4a-5617-45f5-8d25-dc18ba7c7aec"/>
+        <COMPID name="UC004 Reservar Campo" mc="Standard.UseCase" uid="3c551cb9-6d17-4e2e-91ad-3ce53f9859c8"/>
+        <COMPID name="UC003 Visualizar MeuTime" mc="Standard.UseCase" uid="0afa9448-8ddd-45cc-af32-c768fcc8cb6b"/>
+        <COMPID name="UC005 Escalar Time" mc="Standard.UseCase" uid="0a56e4e7-3c26-4395-a608-cfeb8d3251de"/>
+        <COMPID name="UC006 Visualizar e Editar Meu Perfil" mc="Standard.UseCase" uid="57df94d3-77d9-462d-925e-564f43f6f655"/>
+        <COMPID name="UC007 Logar Usuário" mc="Standard.UseCase" uid="999ba2a4-647e-4896-8347-cba139509565"/>
+        <COMPID name="UC008 Recuperar Senha" mc="Standard.UseCase" uid="25446f0b-729e-4fa9-a7b6-7ecda833b86e"/>
+        <COMPID name="UC009 Cadastrar Estabelecimento" mc="Standard.UseCase" uid="5f7508a1-73eb-4254-8e65-b9eba9b2ae9b"/>
+        <COMPID name="UC010 Cadastrar Campo" mc="Standard.UseCase" uid="47b2b331-f4f1-4c56-be82-bbeba3712ee1"/>
+        <COMPID name="UC011 Visualizar e Editar Estabelecimento" mc="Standard.UseCase" uid="537174d3-e984-46d7-842a-6d24d0c8f601"/>
+        <COMPID name="UC012 Visualizar e Editar Campo" mc="Standard.UseCase" uid="73787997-6b61-4356-b790-5b326d3d4c95"/>
+        <COMPID name="UC013 Excluir Estabelecimento" mc="Standard.UseCase" uid="de425452-5293-4897-bfbb-4b4bf4bc3b02"/>
+        <COMPID name="UC014 Excluir Campo" mc="Standard.UseCase" uid="b9ba2a70-c2d9-4ba9-bb8b-acc7f5652048"/>
+        <COMPID name="Interface" mc="Standard.Interface" uid="b346c08d-df9e-45a3-897a-6d08a691fdac"/>
+        <COMPID name="UC001 Cadastrar usuário" mc="Standard.UseCase" uid="8a8dbb24-fb51-4b8d-bb90-cda6aae9254b"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="uc Atores" mc="Standard.UseCaseDiagram" uid="e8ee6a04-168e-41f0-860c-90d6095aabcd"/>
